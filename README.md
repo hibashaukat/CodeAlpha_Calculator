@@ -2,7 +2,6 @@
 
 **Task 2: Build a Calculator**
 **Intern:** Hiba
-**Internship ID:** APR26-FE28-18
 **Organization:** CodeAlpha
 
 ---
@@ -62,7 +61,8 @@ CodeAlpha_Calculator/
 3. Start calculating!
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_Calculator.git
+git clone https://github.com/hibashaukat/CodeAlpha_Calculator.git
+
 cd CodeAlpha_Calculator
 # open index.html in browser
 ```
